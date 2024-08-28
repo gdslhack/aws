@@ -25,10 +25,5 @@
       "src": "/(.*)",
       "dest": "public/$1"
     }
-  ],
-  "output": {
-    "env": {
-      "NODE_ENV": "production"
-    }
-  }
+  ]
 }
